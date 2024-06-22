@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Czas pełnego załadowania Githuba",
+    "2": "Czas pełnego załadowania Zooma",
+    "3": "Pobieranie jednowątkowe na Speedtest.net",
+    "4": "Opóźnienie",
+    "after": "Po przyspieszeniu",
+    "before": "Przed przyspieszeniem"
+  },
+  "compatible": {
+    "description": "Nasza usługa jest kompatybilna z wieloma doskonałymi aplikacjami na różnych platformach. Współpracujemy z deweloperami, aktualizujemy w czasie rzeczywistym, aby zapewnić najlepsze doświadczenia.",
+    "statement": "(* Brak wyświetlania nie oznacza, że nie jest obsługiwane)",
+    "title": "Bogata kompatybilność z aplikacjami firm trzecich"
+  },
+  "description": "Nasze ponad 100 węzłów jest rozproszonych w ponad 10 krajach lub regionach na całym świecie, zapewniając Ci lepsze doświadczenia użytkownika i dostęp do treści.",
+  "features": [
+    {
+      "description": "Bez skomplikowanych kroków, możesz zarejestrować konto w zaledwie 30 sekund",
+      "title": "Szybka rejestracja"
+    },
+    {
+      "description": "Nasze ponad 100 węzłów jest rozproszonych w ponad 10 krajach lub regionach na całym świecie, a wszystkie nasze węzły utrzymują wysokie standardy prędkości, więc możesz iść, gdzie chcesz",
+      "title": "Wieloregionalny"
+    },
+    {
+      "description": "Nasze węzły są utrzymywane przez doskonały dział techniczny, a my utrzymujemy dobre relacje z operatorami, co znacznie obniża koszty",
+      "title": "Oszczędność kosztów"
+    },
+    {
+      "description": "Kibicuj naszemu doskonałemu działowi technicznemu! Specjalnie zoptymalizowali trasowanie naszych węzłów, aby zapewnić niższe opóźnienia i wyższe prędkości",
+      "title": "Lepsze trasowanie"
+    },
+    {
+      "description": "Dzięki doskonałym deweloperom oprogramowania firm trzecich, nasze węzły mogą być używane na systemach Windows, Android, iOS, macOS i routerach. Specjalne podziękowania za ich wkład",
+      "title": "Połączenie jednym kliknięciem"
+    },
+    {
+      "description": "Twoje dane będą przesyłane w formie zaszyfrowanej. To nie tylko zaszyfrowane przesyłanie, ale także szyfrowane przesyłanie o wysokim priorytecie. Możesz również sam wybrać swój ulubiony sposób szyfrowania",
+      "title": "Zaszyfrowane bezproblemowo"
+    }
+  ],
+  "price": "Cena",
+  "problem": {
+    "0": {
+      "description": "O ile jesteś nowym zarejestrowanym użytkownikiem, możesz to wypróbować zaraz po zalogowaniu.",
+      "title": "Czy oferujecie okres próbny?"
+    },
+    "1": {
+      "description": "Tak, nasze linie są specjalnie zoptymalizowane dla Chin kontynentalnych.",
+      "title": "Czy mogę tego używać w Chinach kontynentalnych?"
+    },
+    "2": {
+      "description": "Nie martw się, nasz dział techniczny stale monitoruje i są najlepsi.",
+      "title": "Czy to jest stabilne?"
+    },
+    "3": {
+      "description": "Tak, większość naszych serwerów nie podlega regionalnym ograniczeniom Netflix.",
+      "title": "Czy mogę oglądać Netflix?"
+    },
+    "4": {
+      "description": "Obsługujemy płatności Alipay, WeChat, kartami kredytowymi i płatnościami USDT-TRC20.",
+      "title": "Jak mogę zapłacić?"
+    },
+    "title": "Najczęściej zadawane pytania"
+  },
+  "start": "Rozpocznij teraz",
+  "title": {
+    "1": "Zobowiązujemy się do świadczenia",
+    "2": [
+      "Błyskawicznie szybki",
+      "Solidny",
+      "Wieloregionalny",
+      "Unikalny",
+      "Zaszyfrowany bezproblemowo",
+      "Wysoką wartość"
+    ],
+    "3": "globalnych usług transmisji ruchu"
+  }
+}

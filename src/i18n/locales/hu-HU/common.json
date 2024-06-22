@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Ügyfél hiba",
+    "40001": "Ügyfél validációs hiba",
+    "41001": "Fiók hitelesítési hiba",
+    "41010": "Ez a fiók nem létezik",
+    "41011": "A fiókot letiltották",
+    "41012": "Helytelen jelszó",
+    "50000": "Szerverhiba",
+    "default": "Ismeretlen hiba",
+    "no.manager": "Ez a fiókkezelő jogtalanul van bejelentkezve"
+  }
+}

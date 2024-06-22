@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Lỗi của Khách hàng",
+    "40001": "Xác thực của Khách hàng không thành công",
+    "41001": "Xác thực Tài khoản không thành công",
+    "41010": "Tài khoản này không tồn tại",
+    "41011": "Tài khoản đã bị cấm",
+    "41012": "Sai Mật khẩu",
+    "50000": "Lỗi của Máy chủ",
+    "default": "Lỗi không xác định",
+    "no.manager": "Quản lý tài khoản này đang đăng nhập một cách bất hợp pháp"
+  }
+}

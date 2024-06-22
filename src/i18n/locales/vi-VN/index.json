@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Thời gian tải đầy đủ Github",
+    "2": "Thời gian tải đầy đủ Zoom",
+    "3": "Tải xuống đơn luồng Speedtest.net",
+    "4": "Độ trễ",
+    "after": "Sau khi tăng tốc",
+    "before": "Trước khi tăng tốc"
+  },
+  "compatible": {
+    "description": "Dịch vụ của chúng tôi tương thích với nhiều ứng dụng xuất sắc trên các nền tảng khác nhau. Chúng tôi đang tiến triển cùng các nhà phát triển, cập nhật theo thời gian thực, chỉ để mang lại trải nghiệm tốt nhất",
+    "statement": "(* Không hiển thị không có nghĩa là không được hỗ trợ)",
+    "title": "Tương thích với ứng dụng bên thứ ba phong phú"
+  },
+  "description": "Hơn 100 nút mạng của chúng tôi được phân phối trên 10 quốc gia hoặc khu vực trên toàn thế giới, mang lại trải nghiệm người dùng tốt hơn và nội dung dễ tiếp cận.",
+  "features": [
+    {
+      "description": "Không cần các bước phức tạp, bạn có thể đăng ký tài khoản chỉ trong vòng 30 giây",
+      "title": "Đăng ký Nhanh Chóng"
+    },
+    {
+      "description": "Hơn 100 nút mạng của chúng tôi được phân phối trên 10 quốc gia hoặc khu vực trên toàn thế giới, và tất cả các nút mạng của chúng tôi duy trì tiêu chuẩn tốc độ cao, vì vậy bạn có thể đi đến bất cứ đâu bạn muốn",
+      "title": "Đa Khu Vực"
+    },
+    {
+      "description": "Các nút mạng của chúng tôi được duy trì bởi một bộ phận kỹ thuật xuất sắc, và chúng tôi duy trì mối quan hệ tốt với các nhà khai thác, giảm chi phí đáng kể",
+      "title": "Tiết Kiệm Chi Phí"
+    },
+    {
+      "description": "Hãy cổ vũ cho bộ phận kỹ thuật xuất sắc của chúng tôi! Họ đã tối ưu hóa định tuyến của các nút mạng của chúng tôi để cung cấp độ trễ thấp và tốc độ cao hơn",
+      "title": "Định Tuyến Tốt Hơn"
+    },
+    {
+      "description": "Nhờ các nhà phát triển phần mềm bên thứ ba xuất sắc, các nút mạng của chúng tôi có thể được sử dụng trên Windows, Android, iOS, macOS và các bộ định tuyến. Cảm ơn họ rất nhiều vì sự đóng góp của họ",
+      "title": "Kết Nối Một Lần Nhấn"
+    },
+    {
+      "description": "Dữ liệu của bạn sẽ được truyền dưới dạng mã hóa. Đó không chỉ là truyền mã hóa, mà còn là truyền mã hóa ưu tiên cao. Bạn cũng có thể chọn phương pháp mã hóa yêu thích của mình",
+      "title": "Mã Hóa Mượt Mà"
+    }
+  ],
+  "price": "Giá",
+  "problem": {
+    "0": {
+      "description": "Chỉ cần bạn là người dùng mới đăng ký, bạn có thể thử nghiệm ngay khi đăng nhập.",
+      "title": "Bạn có cung cấp dịch vụ thử nghiệm không?"
+    },
+    "1": {
+      "description": "Có, các đường truyền của chúng tôi được tối ưu hóa đặc biệt cho Trung Quốc đại lục.",
+      "title": "Tôi có thể sử dụng ở Trung Quốc đại lục không?"
+    },
+    "2": {
+      "description": "Đừng lo lắng, bộ phận kỹ thuật của chúng tôi đang liên tục giám sát, và họ là những người xuất sắc nhất.",
+      "title": "Nó có ổn định không?"
+    },
+    "3": {
+      "description": "Có, hầu hết các máy chủ của chúng tôi không bị hạn chế vùng địa lý của Netflix.",
+      "title": "Tôi có thể xem Netflix không?"
+    },
+    "4": {
+      "description": "Chúng tôi hỗ trợ thanh toán qua Alipay, WeChat, thẻ tín dụng và USDT-TRC20.",
+      "title": "Tôi có thể thanh toán như thế nào?"
+    },
+    "title": "Câu Hỏi Thường Gặp"
+  },
+  "start": "Bắt Đầu Ngay",
+  "title": {
+    "1": "Chúng tôi cam kết cung cấp",
+    "2": [
+      "Nhanh chóng như chớp",
+      "Vững chắc",
+      "Đa khu vực",
+      "Độc đáo",
+      "Mã hóa mượt mà",
+      "Giá trị cao"
+    ],
+    "3": "dịch vụ truyền tải lưu lượng toàn cầu"
+  }
+}

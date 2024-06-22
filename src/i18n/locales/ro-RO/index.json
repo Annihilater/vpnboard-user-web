@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Timpul de încărcare completă a Github-ului",
+    "2": "Timpul de încărcare completă a Zoom-ului",
+    "3": "Descărcare pe fir unic Speedtest.net",
+    "4": "Latenta",
+    "after": "După accelerare",
+    "before": "Înainte de accelerare"
+  },
+  "compatible": {
+    "description": "Serviciul nostru este compatibil cu multe aplicații excelente pe diferite platforme. Progresăm împreună cu dezvoltatorii, actualizând în timp real, doar pentru a oferi cea mai bună experiență",
+    "statement": "(* Faptul că nu este afișat nu înseamnă că nu este suportat)",
+    "title": "Compatibilitate bogată cu aplicații terțe"
+  },
+  "description": "Peste 100 de noduri sunt distribuite în peste 10 țări sau regiuni din întreaga lume, oferindu-vă o experiență de utilizare mai bună și conținut accesibil.",
+  "features": [
+    {
+      "description": "Fără pași complicati, puteți înregistra un cont în doar 30 de secunde",
+      "title": "Înregistrare rapidă"
+    },
+    {
+      "description": "Peste 100 de noduri sunt distribuite în peste 10 țări sau regiuni din întreaga lume, iar toate nodurile noastre mențin standardele de viteză înalte, astfel încât să puteți merge unde doriți",
+      "title": "Multi-regional"
+    },
+    {
+      "description": "Nodurile noastre sunt întreținute de un departament tehnic excelent, iar noi menținem o relație bună cu operatorii, reducând în mod semnificativ costurile",
+      "title": "Economisire de costuri"
+    },
+    {
+      "description": "Încurajați departamentul nostru tehnic excelent! Aceștia au optimizat special rutarea nodurilor noastre pentru a oferi o latenta mai mică și viteze mai mari",
+      "title": "Rutare mai bună"
+    },
+    {
+      "description": "Mulțumiri dezvoltatorilor de software terți excelenti, nodurile noastre pot fi utilizate pe Windows, Android, iOS, macOS și routere. Mulțumiri speciale pentru contribuțiile lor",
+      "title": "Conexiune cu un singur clic"
+    },
+    {
+      "description": "Datele dvs. vor fi transmise în formă criptată. Nu este doar o transmisie criptată, ci și o transmisie criptată cu prioritate ridicată. De asemenea, puteți alege singur metoda dvs. preferată de criptare",
+      "title": "Criptare fără sudură"
+    }
+  ],
+  "price": "Preț",
+  "problem": {
+    "0": {
+      "description": "În calitate de utilizator nou înregistrat, puteți încerca imediat după ce vă conectați.",
+      "title": "Oferiți un trial?"
+    },
+    "1": {
+      "description": "Da, liniile noastre sunt special optimizate pentru China continentală.",
+      "title": "Pot folosi serviciul în China continentală?"
+    },
+    "2": {
+      "description": "Nu vă faceți griji, departamentul nostru tehnic monitorizează constant și sunt cei mai buni.",
+      "title": "Este stabil?"
+    },
+    "3": {
+      "description": "Da, majoritatea serverelor noastre nu sunt supuse restricțiilor regionale ale Netflix-ului.",
+      "title": "Pot viziona Netflix?"
+    },
+    "4": {
+      "description": "Acceptăm plăți prin Alipay, WeChat, carduri de credit și USDT-TRC20.",
+      "title": "Cum pot plăti?"
+    },
+    "title": "Întrebări frecvente"
+  },
+  "start": "Începeți acum",
+  "title": {
+    "1": "Ne angajăm să oferim",
+    "2": [
+      "Rapid ca fulgerul",
+      "Solid ca piatra",
+      "Multi-regional",
+      "Unic",
+      "Criptare fără sudură",
+      "Valoare ridicată"
+    ],
+    "3": "servicii globale de transmitere a traficului"
+  }
+}

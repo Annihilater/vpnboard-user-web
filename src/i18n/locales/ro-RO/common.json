@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Eroare de client",
+    "40001": "Validare client eșuată",
+    "41001": "Autentificare cont eșuată",
+    "41010": "Acest cont nu există",
+    "41011": "Contul a fost interzis",
+    "41012": "Parolă incorectă",
+    "50000": "Eroare de server",
+    "default": "Eroare necunoscută",
+    "no.manager": "Acest manager de cont este conectat ilegal"
+  }
+}

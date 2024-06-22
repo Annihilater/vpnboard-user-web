@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Client Error",
+    "40001": "Client Validation Failed",
+    "41001": "Account Authentication Failed",
+    "41010": "This Account Does Not Exist",
+    "41011": "Account has been Banned",
+    "41012": "Incorrect Password",
+    "50000": "Server Error",
+    "default": "Unknown Error",
+    "no.manager": "This account manager is logged in illegally"
+  }
+}

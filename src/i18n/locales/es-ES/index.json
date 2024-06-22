@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Tiempo de carga completo de Github",
+    "2": "Tiempo de carga completo de Zoom",
+    "3": "Descarga de un solo hilo de Speedtest.net",
+    "4": "Latencia",
+    "after": "Después de la aceleración",
+    "before": "Antes de la aceleración"
+  },
+  "compatible": {
+    "description": "Nuestro servicio es compatible con muchas aplicaciones excelentes en diversas plataformas. Estamos avanzando con los desarrolladores, actualizando en tiempo real, solo para brindar la mejor experiencia",
+    "statement": "(* No aparecer no significa que no esté soportado)",
+    "title": "Compatibilidad con aplicaciones de terceros"
+  },
+  "description": "Nuestros 100+ nodos están distribuidos en más de 10 países o regiones de todo el mundo, brindándote una mejor experiencia de usuario y contenido accesible.",
+  "features": [
+    {
+      "description": "Sin pasos complejos, puedes registrarte en tan solo 30 segundos",
+      "title": "Registro rápido"
+    },
+    {
+      "description": "Nuestros 100+ nodos están distribuidos en más de 10 países o regiones de todo el mundo, y todos nuestros nodos mantienen estándares de alta velocidad, para que puedas ir a donde quieras",
+      "title": "Multi-regional"
+    },
+    {
+      "description": "Nuestros nodos son mantenidos por un excelente departamento técnico, y mantenemos una buena relación con los operadores, reduciendo considerablemente los costos",
+      "title": "Ahorro de costes"
+    },
+    {
+      "description": "¡Applauda a nuestro excelente departamento técnico! Han optimizado especialmente el enrutamiento de nuestros nodos para proporcionar menor latencia y mayores velocidades",
+      "title": "Mejor enrutamiento"
+    },
+    {
+      "description": "Gracias a los excelentes desarrolladores de software de terceros, nuestros nodos se pueden utilizar en Windows, Android, iOS, macOS y routers. Especial agradecimiento por sus contribuciones",
+      "title": "Conexión con un clic"
+    },
+    {
+      "description": "Tus datos se transmitirán de forma encriptada. No solo es una transmisión encriptada, sino también una transmisión encriptada de alta prioridad. También puedes elegir tu método de encriptación favorito",
+      "title": "Encriptación sin interrupciones"
+    }
+  ],
+  "price": "Precio",
+  "problem": {
+    "0": {
+      "description": "Tan pronto como seas un usuario registrado nuevo, puedes probarlo tan pronto como inicies sesión.",
+      "title": "¿Ofrecen una prueba?"
+    },
+    "1": {
+      "description": "Sí, nuestras líneas están especialmente optimizadas para China continental.",
+      "title": "¿Puedo usarlo en China continental?"
+    },
+    "2": {
+      "description": "No te preocupes, nuestro departamento técnico está monitoreando constantemente, y son los mejores.",
+      "title": "¿Es estable?"
+    },
+    "3": {
+      "description": "Sí, la mayoría de nuestros servidores no están sujetos a las restricciones regionales de Netflix.",
+      "title": "¿Puedo ver Netflix?"
+    },
+    "4": {
+      "description": "Soportamos pagos con Alipay, WeChat, tarjetas de crédito y USDT-TRC20.",
+      "title": "¿Cómo puedo pagar?"
+    },
+    "title": "Preguntas frecuentes"
+  },
+  "start": "Comenzar ahora",
+  "title": {
+    "1": "Nos comprometemos a proporcionar",
+    "2": [
+      "Súper rápido",
+      "Sólido como una roca",
+      "Multi-regional",
+      "Único",
+      "Encriptación sin interrupciones",
+      "Alto valor"
+    ],
+    "3": "servicios globales de transmisión de tráfico"
+  }
+}

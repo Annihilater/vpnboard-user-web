@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Zeit zum vollständigen Laden von Github",
+    "2": "Zeit zum vollständigen Laden von Zoom",
+    "3": "Speedtest.net Einzelthread-Download",
+    "4": "Latenz",
+    "after": "Nach Beschleunigung",
+    "before": "Vor Beschleunigung"
+  },
+  "compatible": {
+    "description": "Unser Service ist mit vielen ausgezeichneten Anwendungen auf verschiedenen Plattformen kompatibel. Wir arbeiten mit Entwicklern zusammen, aktualisieren in Echtzeit, um das beste Erlebnis zu bieten.",
+    "statement": "(* Nicht angezeigt bedeutet nicht, dass es nicht unterstützt wird)",
+    "title": "Reiche Kompatibilität mit Drittanbieteranwendungen"
+  },
+  "description": "Unsere über 100 Knotenpunkte sind in mehr als 10 Ländern oder Regionen weltweit verteilt und bieten Ihnen ein besseres Benutzererlebnis und zugängliche Inhalte.",
+  "features": [
+    {
+      "description": "Keine komplexen Schritte, Sie können ein Konto in nur 30 Sekunden registrieren",
+      "title": "Schnelle Registrierung"
+    },
+    {
+      "description": "Unsere über 100 Knotenpunkte sind in mehr als 10 Ländern oder Regionen weltweit verteilt, und alle unsere Knotenpunkte halten hohe Geschwindigkeitsstandards ein, damit Sie überall hin gelangen können",
+      "title": "Multi-regional"
+    },
+    {
+      "description": "Unsere Knotenpunkte werden von einer ausgezeichneten technischen Abteilung gewartet, und wir pflegen eine gute Beziehung zu Betreibern, was die Kosten erheblich reduziert",
+      "title": "Kosteneinsparung"
+    },
+    {
+      "description": "Jubel für unsere ausgezeichnete technische Abteilung! Sie haben die Routenoptimierung unserer Knotenpunkte speziell optimiert, um eine geringere Latenz und höhere Geschwindigkeiten zu bieten",
+      "title": "Besseres Routing"
+    },
+    {
+      "description": "Dank der ausgezeichneten Drittanbieter-Softwareentwickler können unsere Knotenpunkte auf Windows, Android, iOS, macOS und Routern verwendet werden. Besonderer Dank für ihre Beiträge",
+      "title": "Verbindung mit einem Klick"
+    },
+    {
+      "description": "Ihre Daten werden verschlüsselt übertragen. Es handelt sich nicht nur um eine verschlüsselte Übertragung, sondern auch um eine verschlüsselte Übertragung mit hoher Priorität. Sie können auch Ihre bevorzugte Verschlüsselungsmethode selbst wählen",
+      "title": "Nahtlose Verschlüsselung"
+    }
+  ],
+  "price": "Preis",
+  "problem": {
+    "0": {
+      "description": "Sobald Sie ein neuer registrierter Benutzer sind, können Sie es sofort ausprobieren, sobald Sie sich anmelden.",
+      "title": "Bieten Sie eine Testversion an?"
+    },
+    "1": {
+      "description": "Ja, unsere Leitungen sind speziell für das Festland China optimiert.",
+      "title": "Kann ich es in Festlandchina verwenden?"
+    },
+    "2": {
+      "description": "Keine Sorge, unsere technische Abteilung überwacht ständig, und sie sind die Besten.",
+      "title": "Ist es stabil?"
+    },
+    "3": {
+      "description": "Ja, die meisten unserer Server unterliegen nicht den regionalen Einschränkungen von Netflix.",
+      "title": "Kann ich Netflix schauen?"
+    },
+    "4": {
+      "description": "Wir unterstützen Alipay, WeChat, Kreditkarten und USDT-TRC20-Zahlungen.",
+      "title": "Wie kann ich bezahlen?"
+    },
+    "title": "Häufig gestellte Fragen"
+  },
+  "start": "Jetzt starten",
+  "title": {
+    "1": "Wir sind bestrebt, bereitzustellen",
+    "2": [
+      "Blitzschnelle",
+      "Stabile",
+      "Multi-regionale",
+      "Einzigartige",
+      "Nahtlos verschlüsselte",
+      "Hohe Wertigkeit"
+    ],
+    "3": "globale Verkehrsdienste"
+  }
+}

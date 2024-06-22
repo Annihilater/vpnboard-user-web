@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Idő a Github teljes betöltéséhez",
+    "2": "Idő a Zoom teljes betöltéséhez",
+    "3": "Speedtest.net egyszálú letöltési sebesség",
+    "4": "Késleltetés",
+    "after": "Gyorsítás után",
+    "before": "Gyorsítás előtt"
+  },
+  "compatible": {
+    "description": "Szolgáltatásunk kompatibilis számos kiváló alkalmazással különböző platformokon. Fejlesztőkkel együtt haladunk, valós időben frissítünk, hogy a legjobb élményt nyújtsuk.",
+    "statement": "(* Ha nem jelenik meg, az nem azt jelenti, hogy nem támogatott)",
+    "title": "Bőséges harmadik fél alkalmazás kompatibilitás"
+  },
+  "description": "100+ csomópontunk 10+ országban vagy régióban vannak elosztva a világ körül, így jobb felhasználói élményt és hozzáférhető tartalmat biztosítunk.",
+  "features": [
+    {
+      "description": "Nincsenek bonyolult lépések, egy pillanat alatt regisztrálhatsz egy fiókot",
+      "title": "Gyors regisztráció"
+    },
+    {
+      "description": "100+ csomópontunk elosztva van 10+ országban vagy régióban a világon, és mindegyik csomópontunk magas sebességi szabványokat tart fenn, így bárhová eljuthatsz",
+      "title": "Több régiós"
+    },
+    {
+      "description": "Csomópontjainkat kiváló technikai osztály karbantartja, és jó kapcsolatot ápolunk az üzemeltetőkkel, jelentősen csökkentve a költségeket",
+      "title": "Költségmegtakarítás"
+    },
+    {
+      "description": "Szurkolj kiváló technikai osztályunknak! Különlegesen optimalizálták csomópontjaink útvonalát, hogy alacsonyabb késleltetést és magasabb sebességet biztosítsanak",
+      "title": "Jobb útvonalválasztás"
+    },
+    {
+      "description": "Köszönet a kiváló harmadik fél szoftverfejlesztőknek, csomópontjainkat Windows, Android, iOS, macOS és routerekre is használhatod. Külön köszönet értük a hozzájárulásukért",
+      "title": "Egykattintásos kapcsolat"
+    },
+    {
+      "description": "Az adatok titkosított formában lesznek átvitelre kerülnek. Nemcsak titkosított átvitel, hanem magas prioritású titkosított átvitel is. Választhatsz kedvenc titkosítási módszeredet is",
+      "title": "Titkosított zökkenőmentesen"
+    }
+  ],
+  "price": "Ár",
+  "problem": {
+    "0": {
+      "description": "Amint új regisztrált felhasználó vagy, azonnal kipróbálhatod, amint bejelentkezel.",
+      "title": "Van próbaverzió?"
+    },
+    "1": {
+      "description": "Igen, vonalainkat kifejezetten optimalizálták a Kína szárazföldi részére.",
+      "title": "Használhatom Kínában?"
+    },
+    "2": {
+      "description": "Ne aggódj, technikai osztályunk folyamatosan figyeli, és ők a legjobbak.",
+      "title": "Stabil?"
+    },
+    "3": {
+      "description": "Igen, szervereink többsége nem korlátozott a Netflix régiós korlátozásai által.",
+      "title": "Nézhetek Netflixet?"
+    },
+    "4": {
+      "description": "Támogatjuk az Alipay-t, a WeChat-et, hitelkártyákat és USDT-TRC20 fizetéseket.",
+      "title": "Hogyan fizethetek?"
+    },
+    "title": "Gyakran Ismételt Kérdések"
+  },
+  "start": "Kezdés most",
+  "title": {
+    "1": "Elkötelezettek vagyunk abban, hogy",
+    "2": [
+      "Villámgyors",
+      "Stabil",
+      "Több régiós",
+      "Egyedi",
+      "Titkosított zökkenőmentesen",
+      "Magas értékű"
+    ],
+    "3": "globális forgalomátviteli szolgáltatásokat nyújtsunk"
+  }
+}

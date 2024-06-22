@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Temps de chargement complet de Github",
+    "2": "Temps de chargement complet de Zoom",
+    "3": "Téléchargement en un seul fil de Speedtest.net",
+    "4": "Latence",
+    "after": "Après l'accélération",
+    "before": "Avant l'accélération"
+  },
+  "compatible": {
+    "description": "Notre service est compatible avec de nombreuses applications excellentes sur différentes plateformes. Nous progressons avec les développeurs, mettant à jour en temps réel, juste pour offrir la meilleure expérience",
+    "statement": "(* Le fait de ne pas être affiché ne signifie pas qu'il n'est pas pris en charge)",
+    "title": "Compatibilité riche avec des applications tierces"
+  },
+  "description": "Nos 100+ nœuds sont répartis dans plus de 10 pays ou régions à travers le monde, vous offrant une meilleure expérience utilisateur et un contenu accessible.",
+  "features": [
+    {
+      "description": "Pas d'étapes complexes, vous pouvez créer un compte en aussi peu que 30 secondes",
+      "title": "Inscription rapide"
+    },
+    {
+      "description": "Nos 100+ nœuds sont répartis dans plus de 10 pays ou régions à travers le monde, et tous nos nœuds maintiennent des normes de haute vitesse, vous permettant d'aller où vous voulez",
+      "title": "Multi-régional"
+    },
+    {
+      "description": "Nos nœuds sont entretenus par un excellent département technique, et nous entretenons de bonnes relations avec les opérateurs, réduisant considérablement les coûts",
+      "title": "Économies de coûts"
+    },
+    {
+      "description": "Applaudissez notre excellent département technique ! Ils ont spécialement optimisé le routage de nos nœuds pour fournir une latence plus faible et des vitesses plus élevées",
+      "title": "Meilleur routage"
+    },
+    {
+      "description": "Grâce aux excellents développeurs de logiciels tiers, nos nœuds peuvent être utilisés sur Windows, Android, iOS, macOS et routeurs. Un grand merci à eux pour leurs contributions",
+      "title": "Connexion en un clic"
+    },
+    {
+      "description": "Vos données seront transmises de manière chiffrée. Ce n'est pas seulement une transmission chiffrée, mais aussi une transmission chiffrée à haute priorité. Vous pouvez également choisir vous-même votre méthode de chiffrement préférée",
+      "title": "Chiffré de manière transparente"
+    }
+  ],
+  "price": "Prix",
+  "problem": {
+    "0": {
+      "description": "Dès que vous êtes un nouvel utilisateur enregistré, vous pouvez l'essayer dès que vous vous connectez.",
+      "title": "Proposez-vous un essai ?"
+    },
+    "1": {
+      "description": "Oui, nos lignes sont spécialement optimisées pour la Chine continentale.",
+      "title": "Puis-je l'utiliser en Chine continentale ?"
+    },
+    "2": {
+      "description": "Ne vous inquiétez pas, notre département technique surveille constamment, et ils sont les meilleurs.",
+      "title": "Est-ce stable ?"
+    },
+    "3": {
+      "description": "Oui, la plupart de nos serveurs ne sont pas soumis aux restrictions régionales de Netflix.",
+      "title": "Puis-je regarder Netflix ?"
+    },
+    "4": {
+      "description": "Nous acceptons les paiements par Alipay, WeChat, cartes de crédit et USDT-TRC20.",
+      "title": "Comment puis-je payer ?"
+    },
+    "title": "Questions fréquemment posées"
+  },
+  "start": "Commencer maintenant",
+  "title": {
+    "1": "Nous nous engageons à fournir",
+    "2": [
+      "Ultra-rapide",
+      "Fiable",
+      "Multi-régional",
+      "Unique",
+      "Chiffré de manière transparente",
+      "Valeur élevée"
+    ],
+    "3": "services mondiaux de transmission de trafic"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Chyba klienta",
+    "40001": "Validace klienta selhala",
+    "41001": "Autentizace účtu selhala",
+    "41010": "Tento účet neexistuje",
+    "41011": "Účet byl zablokován",
+    "41012": "Nesprávné heslo",
+    "50000": "Chyba serveru",
+    "default": "Neznámá chyba",
+    "no.manager": "Tento účet správce je neoprávněně přihlášen"
+  }
+}

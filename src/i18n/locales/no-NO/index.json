@@ -1,0 +1,72 @@
+{
+  "compared": {
+    "1": "Tid for full lasting av Github",
+    "2": "Tid for full lasting av Zoom",
+    "3": "Speedtest.net enkelttråds nedlasting",
+    "4": "Latens",
+    "after": "Etter akselerasjon",
+    "before": "Før akselerasjon"
+  },
+  "compatible": {
+    "description": "Tjenesten vår er kompatibel med mange utmerkede applikasjoner på ulike plattformer. Vi samarbeider med utviklere, oppdaterer i sanntid, bare for å gi den beste opplevelsen",
+    "statement": "(* Ikke vises betyr ikke at det ikke støttes)",
+    "title": "Rik tredjepartsapplikasjonskompatibilitet"
+  },
+  "description": "Våre 100+ noder er fordelt over 10+ land eller regioner rundt om i verden, og gir deg en bedre brukeropplevelse og tilgjenglig innhold.",
+  "features": [
+    {
+      "description": "Ingen komplekse trinn, du kan registrere en konto på så lite som 30 sekunder",
+      "title": "Rask registrering"
+    },
+    {
+      "description": "Våre 100+ noder er fordelt over 10+ land eller regioner rundt om i verden, og alle nodene våre opprettholder høyhastighetsstandarder, slik at du kan dra hvor du vil",
+      "title": "Multi-regional"
+    },
+    {
+      "description": "Våre noder vedlikeholdes av en utmerket teknisk avdeling, og vi opprettholder et godt forhold til operatører, noe som reduserer kostnadene betydelig",
+      "title": "Kostnadsbesparelse"
+    },
+    {
+      "description": "Heia vår utmerkede tekniske avdeling! De har spesielt optimalisert rutingen av nodene våre for å gi lavere latens og høyere hastigheter",
+      "title": "Bedre ruting"
+    },
+    {
+      "description": "Takk til de utmerkede tredjeparts programvareutviklerne, kan nodene våre brukes på Windows, Android, iOS, macOS og rutere. En spesiell takk til dem for deres bidrag",
+      "title": "Ett-klikks tilkobling"
+    },
+    {
+      "description": "Dataene dine vil bli overført i kryptert form. Det er ikke bare kryptert overføring, men også høy prioritet kryptert overføring. Du kan også velge din favoritt krypteringsmetode selv",
+      "title": "Kryptert sømløst"
+    }
+  ],
+  "price": "Pris",
+  "problem": {
+    "0": {
+      "description": "Så lenge du er en nyregistrert bruker, kan du prøve det så snart du logger inn.",
+      "title": "Tilbyr du en prøveperiode?"
+    },
+    "1": {
+      "description": "Ja, linjene våre er spesielt optimalisert for Fastlands-Kina.",
+      "title": "Kan jeg bruke det i Fastlands-Kina?"
+    },
+    "2": {
+      "description": "Ikke bekymre deg, vår tekniske avdeling overvåker kontinuerlig, og de er de beste.",
+      "title": "Er det stabilt?"
+    },
+    "3": {
+      "description": "Ja, de fleste av serverne våre er ikke underlagt Netflix' regionale begrensninger.",
+      "title": "Kan jeg se Netflix?"
+    },
+    "4": {
+      "description": "Vi støtter Alipay, WeChat, kredittkort og USDT-TRC20-betalinger.",
+      "title": "Hvordan betaler jeg?"
+    },
+    "title": "Ofte stilte spørsmål"
+  },
+  "start": "Start nå",
+  "title": {
+    "1": "Vi forplikter oss til å tilby",
+    "2": ["Lynrask", "Solid", "Multi-regional", "Unik", "Kryptert sømløst", "Høy verdi"],
+    "3": "globale trafikkoverføringstjenester"
+  }
+}

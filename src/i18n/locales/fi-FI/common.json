@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Asiakasvirhe",
+    "40001": "Asiakkaan validointi epäonnistui",
+    "41001": "Tilin todennus epäonnistui",
+    "41010": "Tätä tiliä ei ole olemassa",
+    "41011": "Tili on suljettu",
+    "41012": "Väärä salasana",
+    "50000": "Palvelinvirhe",
+    "default": "Tuntematon virhe",
+    "no.manager": "Tämä tilinjohtaja on kirjautunut sisään laittomasti"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Client Error",
+    "40001": "Client Validation Failed",
+    "41001": "Account Authentication Failed",
+    "41010": "Dieses Konto existiert nicht",
+    "41011": "Konto wurde gesperrt",
+    "41012": "Falsches Passwort",
+    "50000": "Serverfehler",
+    "default": "Unbekannter Fehler",
+    "no.manager": "Dieser Kontomanager ist illegal eingeloggt"
+  }
+}

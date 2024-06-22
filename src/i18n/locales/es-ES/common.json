@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Error del Cliente",
+    "40001": "Validación del Cliente Fallida",
+    "41001": "Autenticación de la Cuenta Fallida",
+    "41010": "Esta Cuenta No Existe",
+    "41011": "Cuenta ha sido Baneada",
+    "41012": "Contraseña Incorrecta",
+    "50000": "Error del Servidor",
+    "default": "Error Desconocido",
+    "no.manager": "Este gestor de cuenta está conectado de forma ilegal"
+  }
+}

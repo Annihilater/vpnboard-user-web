@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Erreur client",
+    "40001": "Validation client échouée",
+    "41001": "Échec d'authentification du compte",
+    "41010": "Ce compte n'existe pas",
+    "41011": "Le compte a été banni",
+    "41012": "Mot de passe incorrect",
+    "50000": "Erreur serveur",
+    "default": "Erreur inconnue",
+    "no.manager": "Ce gestionnaire de compte est connecté de manière illégale"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Błąd klienta",
+    "40001": "Walidacja klienta nie powiodła się",
+    "41001": "Uwierzytelnienie konta nie powiodło się",
+    "41010": "To konto nie istnieje",
+    "41011": "Konto zostało zbanowane",
+    "41012": "Nieprawidłowe hasło",
+    "50000": "Błąd serwera",
+    "default": "Nieznany błąd",
+    "no.manager": "Ten menedżer konta jest nielegalnie zalogowany"
+  }
+}

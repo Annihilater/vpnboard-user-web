@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Čas na úplné načtení Githubu",
+    "2": "Čas na úplné načtení Zoomu",
+    "3": "Stahování jednoho vlákna na Speedtest.net",
+    "4": "Latence",
+    "after": "Po zrychlení",
+    "before": "Před zrychlením"
+  },
+  "compatible": {
+    "description": "Naše služba je kompatibilní s mnoha vynikajícími aplikacemi na různých platformách. Spolupracujeme s vývojáři, aktualizujeme v reálném čase, abychom poskytli tu nejlepší zkušenost.",
+    "statement": "(* Pokud se nezobrazuje, neznamená to, že není podporováno)",
+    "title": "Bohatá kompatibilita s aplikacemi třetích stran"
+  },
+  "description": "Naše 100+ uzlů je rozloženo v 10+ zemích nebo regionech po celém světě, což vám poskytuje lepší uživatelskou zkušenost a přístup k obsahu.",
+  "features": [
+    {
+      "description": "Bez složitých kroků si můžete zaregistrovat účet během 30 sekund",
+      "title": "Rychlá registrace"
+    },
+    {
+      "description": "Naše 100+ uzlů je rozloženo v 10+ zemích nebo regionech po celém světě a všechny naše uzly dodržují vysoké rychlostní standardy, takže se můžete dostat kamkoliv chcete",
+      "title": "Více regionální"
+    },
+    {
+      "description": "Naše uzly spravuje vynikající technické oddělení a udržujeme dobrý vztah s operátory, což výrazně snižuje náklady",
+      "title": "Úspora nákladů"
+    },
+    {
+      "description": "Fandíme našemu vynikajícímu technickému oddělení! Speciálně optimalizovali směrování našich uzlů, aby poskytovali nižší latenci a vyšší rychlosti",
+      "title": "Lepší směrování"
+    },
+    {
+      "description": "Díky vynikajícím vývojářům softwaru třetích stran mohou být naše uzly použity na Windows, Android, iOS, macOS a routerech. Speciální poděkování jim za jejich příspěvky",
+      "title": "Připojení jedním kliknutím"
+    },
+    {
+      "description": "Vaše data budou přenášena zašifrovaně. Nejde jen o zašifrovaný přenos, ale také o šifrovaný přenos s vysokým prioritou. Můžete si také sami vybrat svou oblíbenou šifrovací metodu",
+      "title": "Bezproblémové šifrování"
+    }
+  ],
+  "price": "Cena",
+  "problem": {
+    "0": {
+      "description": "Jakmile jste nově registrovaným uživatelem, můžete to vyzkoušet hned po přihlášení.",
+      "title": "Nabízíte zkušební verzi?"
+    },
+    "1": {
+      "description": "Ano, naše linky jsou speciálně optimalizovány pro pevninskou Čínu.",
+      "title": "Můžu to použít v pevninské Číně?"
+    },
+    "2": {
+      "description": "Nemějte obavy, naše technické oddělení neustále monitoruje a jsou ti nejlepší.",
+      "title": "Je to stabilní?"
+    },
+    "3": {
+      "description": "Ano, většina našich serverů není omezena regionálními omezeními Netflixu.",
+      "title": "Můžu sledovat Netflix?"
+    },
+    "4": {
+      "description": "Podporujeme platby Alipay, WeChat, kreditními kartami a platbami USDT-TRC20.",
+      "title": "Jak mohu platit?"
+    },
+    "title": "Často kladené dotazy"
+  },
+  "start": "Začněte nyní",
+  "title": {
+    "1": "Zavázali jsme se poskytovat",
+    "2": [
+      "Bleskově rychlý",
+      "Stabilní",
+      "Více regionální",
+      "Jedinečný",
+      "Bezproblémově šifrovaný",
+      "Vysokou hodnotu"
+    ],
+    "3": "globální služby pro přenos provozu"
+  }
+}

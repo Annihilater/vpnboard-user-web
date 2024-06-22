@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "İstemci Hatası",
+    "40001": "İstemci Doğrulaması Başarısız",
+    "41001": "Hesap Kimlik Doğrulaması Başarısız",
+    "41010": "Bu Hesap Mevcut Değil",
+    "41011": "Hesap Yasaklandı",
+    "41012": "Yanlış Şifre",
+    "50000": "Sunucu Hatası",
+    "default": "Bilinmeyen Hata",
+    "no.manager": "Bu hesap yöneticisi yasadışı olarak giriş yapmış"
+  }
+}

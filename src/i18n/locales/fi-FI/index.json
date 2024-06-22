@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Aika ladata Github kokonaan",
+    "2": "Aika ladata Zoom kokonaan",
+    "3": "Speedtest.net yhden säikeen lataus",
+    "4": "Viive",
+    "after": "Kiihdytyksen jälkeen",
+    "before": "Kiihdytyksen jälkeen"
+  },
+  "compatible": {
+    "description": "Palvelumme on yhteensopiva monien erinomaisten sovellusten kanssa eri alustoilla. Edistymme kehittäjien kanssa, päivitämme reaaliajassa, vain tarjotaksemme parhaan käyttökokemuksen.",
+    "statement": "(* Ei näytetä, ei tarkoita, ettei sitä tueta)",
+    "title": "Laaja kolmannen osapuolen sovellusten yhteensopivuus"
+  },
+  "description": "Yli 100 solmua on jaettu yli 10 maahan tai alueelle ympäri maailmaa, tarjoten sinulle paremman käyttäjäkokemuksen ja saavutettavan sisällön.",
+  "features": [
+    {
+      "description": "Ei monimutkaisia vaiheita, voit rekisteröityä tilille alle 30 sekunnissa",
+      "title": "Nopea rekisteröinti"
+    },
+    {
+      "description": "Yli 100 solmua on jaettu yli 10 maahan tai alueelle ympäri maailmaa, ja kaikki solmumme ylläpitävät korkeanopeusstandardeja, joten voit mennä minne haluat",
+      "title": "Monialueellinen"
+    },
+    {
+      "description": "Solmujamme ylläpitää erinomainen tekninen osasto, ja ylläpidämme hyvää suhdetta operaattoreihin, mikä vähentää kustannuksia merkittävästi",
+      "title": "Kustannustehokkuus"
+    },
+    {
+      "description": "Kannustamme erinomaista teknistä osastoamme! He ovat erityisesti optimoineet solmujemme reitityksen tarjotakseen alhaisemman viiveen ja korkeammat nopeudet",
+      "title": "Parannettu reititys"
+    },
+    {
+      "description": "Kiitos erinomaisten kolmannen osapuolen ohjelmistokehittäjien, solmujamme voidaan käyttää Windowsissa, Androidissa, iOS:ssä, macOS:ssä ja reitittimissä. Erityiskiitos heille heidän panoksestaan",
+      "title": "Yhdellä napsautuksella yhteys"
+    },
+    {
+      "description": "Tietosi siirretään salatussa muodossa. Se ei ole vain salattu siirto, vaan myös korkean prioriteetin salattu siirto. Voit myös valita suosikkisalausmenetelmäsi itse",
+      "title": "Salattu saumattomasti"
+    }
+  ],
+  "price": "Hinta",
+  "problem": {
+    "0": {
+      "description": "Niin kauan kuin olet uusi rekisteröitynyt käyttäjä, voit kokeilla sitä heti kirjautumisen jälkeen.",
+      "title": "Tarjoatteko kokeilua?"
+    },
+    "1": {
+      "description": "Kyllä, linjamme on erityisesti optimoitu manner-Kiinaa varten.",
+      "title": "Voinko käyttää sitä manner-Kiinassa?"
+    },
+    "2": {
+      "description": "Älä huoli, tekninen osastomme valvoo jatkuvasti, ja he ovat parhaita.",
+      "title": "Onko se vakaa?"
+    },
+    "3": {
+      "description": "Kyllä, useimmat palvelimistamme eivät ole Netflixin alueellisten rajoitusten alaisia.",
+      "title": "Voinko katsoa Netflixia?"
+    },
+    "4": {
+      "description": "Tuetamme Alipayta, WeChatia, luottokortteja ja USDT-TRC20-maksuja.",
+      "title": "Miten voin maksaa?"
+    },
+    "title": "Usein kysytyt kysymykset"
+  },
+  "start": "Aloita nyt",
+  "title": {
+    "1": "Olemme sitoutuneet tarjoamaan",
+    "2": [
+      "Salaman nopea",
+      "Kivijalka",
+      "Monialueellinen",
+      "Uniikki",
+      "Salattu saumattomasti",
+      "Korkean arvon"
+    ],
+    "3": "globaalit liikennepalvelut"
+  }
+}

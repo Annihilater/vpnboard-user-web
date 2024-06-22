@@ -1,0 +1,79 @@
+{
+  "compared": {
+    "1": "Github'ın tam yükleme süresi",
+    "2": "Zoom'un tam yükleme süresi",
+    "3": "Speedtest.net tek iplik indirme hızı",
+    "4": "Gecikme",
+    "after": "Hızlandırmadan sonra",
+    "before": "Hızlandırmadan önce"
+  },
+  "compatible": {
+    "description": "Hizmetimiz, çeşitli platformlardaki birçok mükemmel uygulamayla uyumludur. Geliştiricilerle ilerliyoruz, gerçek zamanlı güncellemeler yapıyoruz, sadece en iyi deneyimi sunmak için",
+    "statement": "(* Görüntülenmemesi desteklenmediği anlamına gelmez)",
+    "title": "Zengin üçüncü taraf uygulama uyumluluğu"
+  },
+  "description": "100'den fazla düğümümüz dünya çapında 10'dan fazla ülke veya bölgeye dağılmıştır, size daha iyi bir kullanıcı deneyimi ve erişilebilir içerik sunar.",
+  "features": [
+    {
+      "description": "Karmaşık adımlara gerek yok, hesap oluşturmanız sadece 30 saniye sürer",
+      "title": "Hızlı Kayıt"
+    },
+    {
+      "description": "100'den fazla düğümümüz dünya çapında 10'dan fazla ülke veya bölgeye dağılmıştır ve tüm düğümlerimiz yüksek hız standartlarını korur, böylece istediğiniz yere gidebilirsiniz",
+      "title": "Çoklu Bölgesel"
+    },
+    {
+      "description": "Düğümlerimiz mükemmel bir teknik departman tarafından bakımı yapılır ve operatörlerle iyi bir ilişki sürdürürüz, bu da maliyetleri büyük ölçüde azaltır",
+      "title": "Maliyet Tasarrufu"
+    },
+    {
+      "description": "Mükemmel teknik departmanımıza tezahürat edin! Düğümlerimizin yönlendirmesini özel olarak optimize ettiler, daha düşük gecikme ve daha yüksek hızlar sağlamak için",
+      "title": "Daha İyi Yönlendirme"
+    },
+    {
+      "description": "Mükemmel üçüncü taraf yazılım geliştiricilerinin sayesinde, düğümlerimiz Windows, Android, iOS, macOS ve yönlendiricilerde kullanılabilir. Katkılarından dolayı onlara özel teşekkürler",
+      "title": "Tek Tıklamayla Bağlantı"
+    },
+    {
+      "description": "Verileriniz şifreli olarak iletilir. Sadece şifreli iletim değil, aynı zamanda öncelikli şifreli iletimdir. Ayrıca istediğiniz şifreleme yöntemini kendiniz seçebilirsiniz",
+      "title": "Kusursuz Şifreleme"
+    }
+  ],
+  "price": "Fiyat",
+  "problem": {
+    "0": {
+      "description": "Yeni kayıtlı bir kullanıcı olduğunuz sürece, giriş yaptığınız anda deneyebilirsiniz.",
+      "title": "Deneme sürümü sunuyor musunuz?"
+    },
+    "1": {
+      "description": "Evet, hatlarımız özellikle Çin anakarası için optimize edilmiştir.",
+      "title": "Çin anakarasında kullanabilir miyim?"
+    },
+    "2": {
+      "description": "Endişelenmeyin, teknik departmanımız sürekli olarak izleme yapmakta ve en iyilerden oluşmaktadır.",
+      "title": "Kararlı mı?"
+    },
+    "3": {
+      "description": "Evet, sunucularımızın çoğu Netflix'in bölgesel kısıtlamalarına tabi değildir.",
+      "title": "Netflix izleyebilir miyim?"
+    },
+    "4": {
+      "description": "Alipay, WeChat, kredi kartları ve USDT-TRC20 ödemelerini destekliyoruz.",
+      "title": "Nasıl ödeme yapabilirim?"
+    },
+    "title": "Sıkça Sorulan Sorular"
+  },
+  "start": "Şimdi Başla",
+  "title": {
+    "1": "Sağlamaya kararlıyız",
+    "2": [
+      "Çok hızlı",
+      "Sağlam",
+      "Çoklu bölgesel",
+      "Benzersiz",
+      "Kusursuz Şifreleme",
+      "Yüksek değer"
+    ],
+    "3": "küresel trafik iletim hizmetleri"
+  }
+}

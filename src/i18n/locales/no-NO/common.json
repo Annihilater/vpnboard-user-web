@@ -1,0 +1,13 @@
+{
+  "request.error": {
+    "40000": "Klientfeil",
+    "40001": "Klientvalidering mislyktes",
+    "41001": "Autentisering av konto mislyktes",
+    "41010": "Denne kontoen eksisterer ikke",
+    "41011": "Kontoen har blitt utestengt",
+    "41012": "Feil passord",
+    "50000": "Serverfeil",
+    "default": "Ukjent feil",
+    "no.manager": "Denne kontosjefen er pålogget ulovlig"
+  }
+}
